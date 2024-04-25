@@ -1,5 +1,4 @@
-° Hi, my name is Gustavo Telles and I'm a student of a technical course in ETEC de Taboão da Serra.
-° Currently, I'm in 3°module of System Development technical course.
+° Hi, my name is Gustavo Telles and I'm a student of a technical course in ETEC de Taboão da Serra. Currently, I'm in 3°module of System Development technical course.
 
 ° Softwares, tools and programming languages learned:
 - Git and GitHub;
