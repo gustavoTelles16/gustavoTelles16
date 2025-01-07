@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Certificate in the Technical Course of Systems Development by Etec de Taboão da Serra<br>- Student of Colégio Terra Brasilis (3rd grade of High School)<br><br>Here I share some projects that you can take advantage of to learn more about programming!</p>
+<p align="left">- Certificate in the Technical Course of Systems Development by Etec de Taboão da Serra<br>- Complete high school at Colégio Terra Brasilis<br><br>Here I share some projects that you can take advantage of to learn more about programming!</p>
 
 ###
 
